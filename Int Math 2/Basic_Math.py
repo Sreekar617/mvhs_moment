@@ -1,0 +1,5 @@
+print(5*7)
+print(4985*0)
+print(328746*2)
+print(23874687*4)
+print(list(range(0, 11, 1)))
