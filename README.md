@@ -1,4 +1,15 @@
-# mvhs_moment
+# IMPORTANT: Attempting to stalk me on my favorite hub and stealing my code will result in a virus.     <sub> L marko </sub>
+## Any code with a tutorial is public. "Use your brain" and "Profit" count as tutorials.
+### actually you can stalk my github, any repositories with a large text on top saying "public" are public
+#### come on bro im indian you think i would hesitate to give you a virus?
+##### L to everyone who thought i was bluffing and downloaded a virus
+​
+
+​
+
+​
+
+​
 Instructions: 
 
 Click "Int Math 2" above
