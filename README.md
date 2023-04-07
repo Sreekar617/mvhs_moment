@@ -1,4 +1,4 @@
-# IMPORTANT: Attempting to stalk me on my favorite hub and stealing my code will result in a virus.     <sub> L marko </sub>
+# IMPORTANT: Attempting to stalk my github stealing my code will result in a virus.     <sub> L marko </sub>
 ## Any code with a tutorial is public. "Use your brain" and "Profit" count as tutorials.
 ### actually you can stalk my github, any repositories with a large text on top saying "public" are public
 #### come on bro im indian you think i would hesitate to give you a virus?
@@ -10,6 +10,10 @@
 ​
 
 ​
+Explaination: This is where I back up my Int Math code. I plan to add folders when I start my next CS class. The repository is named the way it is because I needed to have a unique but memorable name so that my repository would appear on top when you search for it. I don't expect many students to find this, but if they do, they have my full permission to use any code in this repository. This is very basic code anyway, it would probably take longer and be more effort to copy than to just make it yourself.
+
+
+
 Instructions: 
 
 Click "Int Math 2" above
